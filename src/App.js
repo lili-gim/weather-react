@@ -8,6 +8,10 @@ export default function App() {
     <div className="App">
       <h1>Weather App</h1>
       <Weather />
+      <p>
+        The website in published
+        <a href="https://weather-if-i.netlify.app/">here</a>
+      </p>
     </div>
   );
 }
