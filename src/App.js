@@ -10,7 +10,7 @@ export default function App() {
       <Weather />
       <p>
         The website in published
-        <a href="https://weather-if-i.netlify.app/">here</a>
+        <a href="https://weather-if-i.netlify.app/"> here</a>
       </p>
     </div>
   );
